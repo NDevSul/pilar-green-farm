@@ -16,7 +16,7 @@
             class="border rounded px-4 py-2 bg-white dark:bg-gray-700 dark:text-white">
 
         <button class="bg-green-600 text-white px-6 py-2 rounded hover:bg-green-700 transition-all">
-            <i class="fas fa-filter mr-1"></i> Filter
+            <i class="fas fa-filter mr-1"></i> FilterS
         </button>
     </form>
 
